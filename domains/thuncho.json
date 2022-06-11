@@ -1,0 +1,13 @@
+{
+    "description": "cybersecurity tools",
+    "repo": "https://github.com/THUNCHO/THUNCHO.github.io",
+    "owner": {
+        "username": "THUNCHO",
+        "email": "tech@temeculacomputer.net"
+
+    },
+    "record": {
+        "CNAME": "THUNCHO.github.io"
+    }
+
+}
